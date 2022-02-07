@@ -1,8 +1,8 @@
 # ForestBlue Xcode
 
- Port of [olkinn's](https://github.com/olkinn) [ForestBlue](https://github.com/olkinn/forest-blue-iTerm) theme from ITerm2 for Xcode with a few tweaks
+ Port of [olkinn's](https://github.com/olkinn) [ForestBlue](https://github.com/olkinn/forest-blue-iTerm) theme from [ITerm2](https://iterm2.com) for Xcode with a few tweaks
 
-Note : The theme uses a few nonstandard fonts (namely MonoLisa and Inconsolata) so either replace them yourself or download them. Inconsolata is free however MonoLisa isnt (id recommend smth like SF Mono, Monoid or Fira Mono as theyre all great options owever you'll need to mess with some settings to get them to look right)
+Note : The theme uses a few nonstandard fonts (namely MonoLisa and Inconsolata) so either replace them yourself or download them. Inconsolata is free however MonoLisa isnt (id recommend smth like SF Mono, Monoid or Fira Mono as theyre all great options however you'll need to mess with some settings to get them to look right)
 
 Links:   
  [MonoLisa](https://www.monolisa.dev).   
