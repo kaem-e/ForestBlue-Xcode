@@ -2,11 +2,11 @@
 
  Port of [olkinn's](https://github.com/olkinn) [ForestBlue](https://github.com/olkinn/forest-blue-iTerm) theme from [ITerm2](https://iterm2.com) for Xcode with a few tweaks
 
-Note : The theme uses a few nonstandard fonts (namely MonoLisa and Helvetica Neue) so either replace them yourself or download them. Helvetica Neue is free for personal use and Mono Lisa is paid so id recommend smth like SF Mono, Monoid or Fira Mono to replace MonoLisa and SF Pro Inter, Roboto, regular Helvetica or Cantarell to replace Helvetica Neue as they're all great options however you'll need to mess with some settings to get them to look right)
+Note : The theme uses a few nonstandard fonts (namely MonoLisa and Helvetica) so either replace them yourself or download them. Helvetica is free and Mono Lisa is paid so id recommend something like SF Mono, Monoid or Fira Mono to replace MonoLisa and SF Pro Inter, Roboto, or Cantarell to replace Helvetica as they're all great options however you'll need to mess with some settings to get them to look right)
 
 Links:   
  [MonoLisa](https://www.monolisa.dev).   
- [Helvetica Neue](https://freefontsfamily.com/helvetica-neue-font-free/).   
+ [Helvetica](https://freefontsfamily.com/helvetica-font-family/).   
  
 Screenshots: 
 

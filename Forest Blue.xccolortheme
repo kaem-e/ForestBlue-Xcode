@@ -160,11 +160,11 @@
 		<key>xcode.syntax.character</key>
 		<string>MonoLisa-MediumItalic - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>HelveticaNeue-Light - 12.0</string>
+		<string>Helvetica-LightOblique - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>HelveticaNeue - 12.0</string>
+		<string>Helvetica - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>HelveticaNeue-Bold - 12.0</string>
+		<string>Helvetica-Bold - 12.0</string>
 		<key>xcode.syntax.declaration.other</key>
 		<string>MonoLisa-Medium - 12.0</string>
 		<key>xcode.syntax.declaration.type</key>
