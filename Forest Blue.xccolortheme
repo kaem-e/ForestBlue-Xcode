@@ -43,33 +43,33 @@
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.AppleSystemUIFontItalic - 10.0</string>
+	<string>.SFNS-RegularItalic - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>1 1 1 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.33 0.247124 0.894195 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.AppleSystemUIFont - 10.0</string>
+	<string>.SFNS-Regular - 10.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.AppleSystemUIFont - 10.0</string>
+	<string>.SFNS-Regular - 10.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>1 1 1 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.AppleSystemUIFont - 14.0</string>
+	<string>.SFNS-Regular - 14.4</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 24.0</string>
+	<string>.SFNS-Regular - 25.4</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 18.0</string>
+	<string>.SFNS-Regular - 18.8</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.AppleSystemUIFontBold - 10.0</string>
+	<string>.SFNS-Bold - 10.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -160,15 +160,15 @@
 		<key>xcode.syntax.character</key>
 		<string>MonoLisa-MediumItalic - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Inconsolata-Regular_Light - 13.0</string>
+		<string>HelveticaNeue-Light - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Helvetica - 12.0</string>
+		<string>HelveticaNeue - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Helvetica-Bold - 12.0</string>
+		<string>HelveticaNeue-Bold - 12.0</string>
 		<key>xcode.syntax.declaration.other</key>
 		<string>MonoLisa-Medium - 12.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>PTMono-Regular - 12.0</string>
+		<string>MonoLisa-Light - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>MonoLisa-Light - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -196,7 +196,7 @@
 		<key>xcode.syntax.keyword</key>
 		<string>MonoLisa-BoldItalic - 12.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>Helvetica-Light - 12.0</string>
+		<string>HelveticaNeue-Light - 12.0</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>MonoLisa-Medium - 12.0</string>
 		<key>xcode.syntax.number</key>
@@ -208,7 +208,7 @@
 		<key>xcode.syntax.string</key>
 		<string>MonoLisa-Medium - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>SFProDisplay-Medium - 12.0</string>
+		<string>SFCompact-MediumItalic - 11.0</string>
 	</dict>
 </dict>
 </plist>
